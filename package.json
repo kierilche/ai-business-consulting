@@ -1,0 +1,9 @@
+{
+  "name": "ai-business-consulting-landing",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.js",
+    "build": "node build.js"
+  }
+}
