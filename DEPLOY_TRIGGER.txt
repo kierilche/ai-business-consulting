@@ -1,0 +1,2 @@
+Deployment trigger created on 2026-06-04 after full repository upload.
+If you see this file, Vercel should redeploy from the latest complete repository state.
